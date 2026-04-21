@@ -26,3 +26,7 @@ To analyze voltage profile, power flow, and improve system performance using rea
 
 ## Tools Used
 - ETAP 2020
+ 
+## Screenshots
+  alt="image" src="https://github.com/user-attachments/assets/a0dac474-c100-4d97-bb66-4eb079416522"
+
