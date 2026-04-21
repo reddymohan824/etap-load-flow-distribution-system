@@ -1,5 +1,5 @@
 # etap-load-flow-distribution-system
-Basic Load flow Distribution in etap
+⚡ Load Flow Analysis & Reactive Power Compensation using ETAP
 # Load Flow Analysis using ETAP
 
 ## Objective
@@ -29,4 +29,9 @@ To analyze voltage profile, power flow, and improve system performance using rea
  
 ## Screenshots
   alt="image" src="https://github.com/user-attachments/assets/a0dac474-c100-4d97-bb66-4eb079416522"
+
+  ##  Future Improvements
+- Increase capacitor size to optimize voltage (~0.99 pu)
+- Perform short circuit analysis
+- Conduct protection coordination study
 
